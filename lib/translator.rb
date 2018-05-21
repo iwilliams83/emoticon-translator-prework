@@ -1,17 +1,5 @@
 # require modules here
-=begin
-def load_library
-  # code goes here
-end
 
-def get_japanese_emoticon
-  # code goes here
-end
-
-def get_english_meaning
-  # code goes here
-end
-=end
 
 def load_library(file_path)
   # code goes here
